@@ -7,22 +7,21 @@
 <br/>
 
 ![Education](https://img.shields.io/badge/B.E.-Computer%20Science%20Engineering-4C1D95?style=flat-square&labelColor=1E1B4B)
-![University](https://img.shields.io/badge/VTU-K.N.S%20Institute%20of%20Technology-6D28D9?style=flat-square&labelColor=1E1B4B)
+![University](https://img.shields.io/badge/VTU-K.N.S%20Institute%20of%20Technology-5B21B6?style=flat-square&labelColor=1E1B4B)
 ![Location](https://img.shields.io/badge/📍-Bangalore%2C%20Karnataka%2C%20IN-7C3AED?style=flat-square&labelColor=1E1B4B)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](https://shaikayan13.github.io/portfoliio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/shaik-ayan-29986030a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9333EA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](https://shaikayan13.github.io/portfoliio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B)](https://www.linkedin.com/in/shaik-ayan-29986030a)
 [![Email](https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:itsshaikayan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B)](https://github.com/shaikayan13)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B)](https://github.com/shaikayan13)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shaikayan13&style=flat-square&color=6D28D9&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/shaikayan13?style=flat-square&color=6D28D9&labelColor=1E1B4B&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/shaikayan13?style=flat-square&color=6D28D9&labelColor=1E1B4B&label=STARS)
-
+![Profile Views](https://komarev.com/ghpvc/?username=shaikayan13&style=flat-square&color=A78BFA&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/shaikayan13?style=flat-square&color=7C3AED&labelColor=1E1B4B&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/shaikayan13?style=flat-square&color=5B21B6&labelColor=1E1B4B&label=STARS)
 </div>
 
 ---
