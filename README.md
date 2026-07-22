@@ -317,7 +317,6 @@ Worked on full-stack Java development, gaining hands-on exposure to enterprise a
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/shaikayan13/shaikayan13/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
 </div>
 
 ---
