@@ -352,7 +352,7 @@ Open To:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/itsshaikayan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B)](mailto:itsshaikayan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-ayan-29986030a)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/shaik-ayan-29986030a)
 [![GitHub](https://img.shields.io/badge/shaikayan13-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B)](https://github.com/shaikayan13)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B)](https://shaikayan13.github.io/portfoliio/)
 
