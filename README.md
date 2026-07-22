@@ -295,7 +295,7 @@ Worked on full-stack Java development, gaining hands-on exposure to enterprise a
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shaikayan13&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
+<img src="https://github-profile-trophy-wheat-six.vercel.app/?username=shaikayan13&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" width="100%"/>
 
 </div>
 
